@@ -4,7 +4,7 @@ A lightweight web audio player component based on native JavaScript, featuring p
 
 ## Quick Start
 
-If you just want to preview the effect, download the full source code and open `preview.html` in a live server.
+If you just want to preview the effect, download the full source code and open `preview.html` in a **live server**.
 
 To add SatPlayer to a static site:
 
