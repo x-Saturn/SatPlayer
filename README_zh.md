@@ -4,7 +4,7 @@
 
 ## 快速开始
 
-如果只想预览效果，下载完整源代码使用本地Live Server打开`preview.html`即可。
+如果只想预览效果，下载完整源代码使用本地**Live Server**打开`preview.html`即可。
 
 如果需要将SatPlayer添加到静态站点上：
 
